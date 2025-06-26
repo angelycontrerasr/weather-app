@@ -5,9 +5,16 @@
     <title>Title</title>
 </head>
 <body>
-<h1 id="city"></h1>
+<form id="weatherForm">
+    <label for="cityNameInput">Name of the city</label>
+    <input type="text" id="cityNameInput" placeholder="Example: London">
+    <input type="submit">
+</form>
+
+<h1 id="currentCityName"></h1>
 <h4 id="fullAddress"></h4>
 <h2 id="currentCondition"></h2>
 <h3 id="description"></h3>
+<p id="errorMessage"></p>
 </body>
 </html>
