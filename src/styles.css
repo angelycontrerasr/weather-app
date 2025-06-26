@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Monaspace-Krypton';
+    src: url('MonaspaceKrypton-Regular.woff') format('woff');
+}
+
+body {
+    background-color: rebeccapurple;
+    font-family: 'Monaspace-Krypton', sans-serif;
+}
