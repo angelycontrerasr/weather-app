@@ -4,6 +4,7 @@
 }
 
 body {
-    background-color: rebeccapurple;
+    background-color: hsl(30 10 5);
     font-family: 'Monaspace-Krypton', sans-serif;
+    color: #00c4ff
 }
